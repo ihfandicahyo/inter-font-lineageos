@@ -3,7 +3,7 @@
 # ADDOND_VERSION=2
 #
 # /system/addon.d/88-inter.sh
-# During a LineageOS upgrade, this script backs up ih8sn,
+# During a LineageOS upgrade, this script backs up inter,
 # /system is formatted and reinstalled, then the files are restored.
 #
 
